@@ -5,7 +5,6 @@ Dataset about UFOs from recent years.
 ## Origin
 
 - [Origin of Dataset](https://nuforc.org)
-- [Version supplied for this project](https://iowa-my.sharepoint.com/personal/colbert_uiowa_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fcolbert%5Fuiowa%5Fedu%2FDocuments%2FUI%20Courses%2FDataWrangling%5Fdatasets%2Fufo)
 
 ## Current Status of Data
 
